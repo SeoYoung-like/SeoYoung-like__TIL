@@ -1,15 +1,11 @@
-body {
+body{
     background-color: beige;
 }
 
-h1 {
+h1{
     color: cornflowerblue;
 }
 
-.clicked {
+.clicked{
     color: tomato;
-}
-
-.hidden {
-    display: none;
 }
