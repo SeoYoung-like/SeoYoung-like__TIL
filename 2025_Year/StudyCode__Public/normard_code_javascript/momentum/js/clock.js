@@ -19,7 +19,7 @@ function getClock(){
 }
 
 
-// setInterval(changeColor, 1000);
+// setInterval(changeColor, 1000
 
 getClock();
 setInterval(getClock, 1000);
@@ -40,4 +40,4 @@ setInterval(getClock, 1000);
 // const date_hour = String(date.getHours()).padStart(2, "0");
 // const date_minute = String(date.getMinutes()).padStart(2, "0");
 // const date_second = String(date.getSeconds()).padStart(2, "0");
-// clock.innerText = `${date_hour}:${date_minute}:${date_second}`;
+// clock.innerText = `${date_hour}:${date_minute;
