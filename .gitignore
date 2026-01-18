@@ -1,1 +1,11 @@
-/StudyCode__Private
+StudyCode__Private/
+
+assets/
+
+config.js
+
+wecandoit/
+
+.vscode/
+
+.env/
