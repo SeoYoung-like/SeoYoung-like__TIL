@@ -9,15 +9,15 @@ var a = {
 
 
 function DeepCopy(target) {
-    var result = {}
+    var result = {};
     if (typeof target === "object" && target !== null) {
         for (prop in target) {
-            result[prop] = DeepCopy(target[prop])
+            result[prop] = DeepCopy(target[prop]);
         }
     } else {
-        result = target
+        result = target;
     }
 
-    return result
+    return result;
 }
 
